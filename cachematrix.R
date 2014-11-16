@@ -1,3 +1,4 @@
+## Update for November Class - but no changes
 ## This program creates two functions: makeCacheMatrix and cacheSolve.  
 ## The makeCacheMatrix creates a "matrix" object that can cache its inverse.  
 ## CacheSolve computes the inverse of the matrix makeCacheMatrix. 
